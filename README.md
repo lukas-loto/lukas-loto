@@ -2,12 +2,6 @@
 
 # Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
-<!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
-
-![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
-<br />
-<br />
-
 ### Hi, I'm Lukas Domingos, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil!
 - 💻 I have worked as a Project Engineer at CEFET/RJ for 1 Year.
 - 🔭 I’m currently working with ReactJS, PHP, WordPress, TypeScript, NextJS.
