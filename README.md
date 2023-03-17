@@ -68,9 +68,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=lukas-loto&theme=radical)](https://github.com/lukas-loto)
 <br />
 <br />
-[![Visitor Count](https://visitcount.itsvg.in/api?id=lukas-loto&icon=0&color=0)](https://visitcount.itsvg.in)
-<br />
-<br />
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
