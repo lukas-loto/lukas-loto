@@ -2,8 +2,7 @@
 
 # Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
-### Hi, I'm Lukas Domingos, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil!
-- 💻 I have worked as a Project Engineer at CEFET/RJ for 1 Year.
+### Hi, I'm Lukas Domingos, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil with 5 years of experience!
 - 🔭 I’m currently working with ReactJS, PHP, WordPress, TypeScript, NextJS.
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate with people with Amazing Ideas.
@@ -16,7 +15,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lukas-domingos1@hotmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lukas-loto)
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://portfolio.mosalito.com/)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://portfolio.mosalito.com/media/Curr%C3%ADculo%20EN.pdf) </span>
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞]([https://portfolio.mosalito.com/](https://lukasdomingos.sitedomedico.com/))&emsp;|&emsp;</span>
 
 <br />
 
