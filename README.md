@@ -5,8 +5,7 @@
 ### Hi, I'm Lukas Domingos, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Brazil with 5 years of experience!
 - 🔭 I’m currently working with ReactJS, PHP, WordPress, TypeScript, NextJS.
 - 🌱 I’m currently learning Angular.
-- 👯 I’m looking to collaborate with people with Amazing Ideas.
-- ⚡ Fun fact: I love connecting & socializing with new people.
+
 <br />
 
 ## 📞 Connect with me
@@ -14,8 +13,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lukas-domingos/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lukas-domingos1@hotmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lukas-loto)
-
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://lukasdomingos.sitedomedico.com/)</span>
 
 <br />
 
@@ -53,21 +50,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lukas-loto&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukas-loto&theme=radical&show_icons=true&hide_border=true)
-<br />
 [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-loto&theme=radical&hide_border=true&layout=compact)](https://github.com/lukas-loto/github-readme-stats)
 
 </p>
-
-## ⭐ Thanks for the visit!
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lukas-loto&theme=radical)](https://github.com/lukas-loto)
-<br />
-<br />
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
