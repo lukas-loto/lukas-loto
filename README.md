@@ -45,14 +45,5 @@
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<br />
-
-## 📊 GitHub Stats
-
-<p align="left">
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-loto&theme=radical&hide_border=true&layout=compact)](https://github.com/lukas-loto/github-readme-stats)
-
-</p>
-
 
 
